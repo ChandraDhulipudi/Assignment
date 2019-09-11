@@ -65,6 +65,22 @@ The tests can be performed via following Maven command:
 
 `mvn clean test`
 
+## Explore Rest APIs
+The app will be running http://localhost:8006/person-management-app 
+
+    GET /api/persons
+    POST /api/persons
+    GET /api/persons/{personId}
+    PUT /api/persons/{personId}
+    DELETE /api/persons/{personId}
+
+## Explore the H2 database console at below URL
+http://localhost:8006/person-management-app/h2-console
+
+
+## Security 
+Security is disabled in application.yml as default
+if security enabled need to pass user name and passwords as user:pass
 
 
 # Contributors
