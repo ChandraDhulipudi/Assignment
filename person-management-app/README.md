@@ -28,7 +28,7 @@
     ·         Unit testing
     ·         Integration testing
 
-#Solution
+## Solution
 
 ## How to use
     First, the server should be started as a Spring Boot project. The server can be started up via the following command:
