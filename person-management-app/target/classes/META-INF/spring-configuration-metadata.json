@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "person-management-app",
+      "type": "nl.rb.demo.personmanagementapp.properties.AppProperties",
+      "sourceType": "nl.rb.demo.personmanagementapp.properties.AppProperties"
+    },
+    {
+      "name": "person-management-app.security",
+      "type": "nl.rb.demo.personmanagementapp.properties.AppProperties$Security",
+      "sourceType": "nl.rb.demo.personmanagementapp.properties.AppProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
